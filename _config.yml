@@ -23,11 +23,6 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: default # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
-
-header:
-  teaser: *image
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/minimal-mistakes.jpg
   
 # Build settings
 markdown: kramdown
